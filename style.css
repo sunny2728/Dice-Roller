@@ -6,6 +6,9 @@
     color: black;
 }
 
+*{
+    background-color: bisque;
+}
     
 
 
@@ -35,6 +38,7 @@ button{
     justify-content: center;
     align-content: center;
     gap: 10px;
+    color: black;
 
 }
 
